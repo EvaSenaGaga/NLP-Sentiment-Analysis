@@ -41,7 +41,25 @@ Train.csv - Labelled tweets on which to train your model
 Test.csv - Tweets that you must classify using your trained model
 
 # To view and run the project code
-open the files 
+open the files NLP_sentiment_analysis_M1.ipynb
+and NLP_sentiment_analysis_M2.ipynb
+
+# To run the sentiment analysis Gradio app
+open gradio_app.ipynb and run
+
+Running on local URL:  http://127.0.0.1:7860
+
+# link to the models on HuggingFace Hub
+
+The roBERTa-base model - https://huggingface.co/Eva-Gaga/covid-tweet-sentiment-analysis-roberta_model
+
+The DistilBERT-base-uncased Model - https://huggingface.co/Eva-Gaga/distilbert_covid_tweets_sentiment_analysis_model
+
+# link to the Gradio App on HuggingFace Spaces
+
+https://huggingface.co/spaces/Eva-Gaga/Covid-tweet-sentiment-App
+
+
 
 # Technologies used
 
