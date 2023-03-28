@@ -1,0 +1,13 @@
+numpy
+gradio
+ipywidgets
+pandas
+plotly
+pytest
+scikit-learn
+seaborn
+simpletransformers
+transformers
+huggingface-hub
+tokenizers
+
