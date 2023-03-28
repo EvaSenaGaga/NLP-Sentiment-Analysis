@@ -40,6 +40,9 @@ Train.csv - Labelled tweets on which to train your model
 
 Test.csv - Tweets that you must classify using your trained model
 
+# To view and run the project code
+open the files 
+
 # Technologies used
 
 Jupyter Notebook
